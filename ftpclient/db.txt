@@ -1,0 +1,3 @@
+ronald:1234::1:1::
+candy:0000:/home/dir:2:1::
+pooja:abcd:/home/dir:2:1::
